@@ -4,7 +4,7 @@
 
 «____» _______________ 20___ г. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; № ______________________
 
-**учёта боеприпасов (патронов), подлежащих отгрузке**
+**боеприпасов (патронов), подлежащих отгрузке**
 
 | Реквизит | Значение |
 |---|---|
